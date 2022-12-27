@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mattrryan
-- 👀 I’m interested in infrastructure security, pentesting, and digital forensics
+- 👀 I’m interested in data science in business and finance, infrastructure security, pentesting, and digital forensics
 - 🌱 I’m currently learning to build encryption software in Python
 - 💞️ I’m looking to collaborate on anything that interests me at the moment
 - 📫 How to reach me: wiesermr@gmail.com 
